@@ -170,6 +170,8 @@ Para datos inválidos o fallo de la API de Claude.
 | 4 | Bug que cierra la aplicación | Urgente + HITL | ✅ Slack notificó, email enviado tras aprobación |
 | 5 | Ticket sin email ni descripción | Error | ✅ Alerta Slack, sin contacto al cliente |
 
+## Video Demo
+[Ver demo del sistema] https://youtu.be/zmArV3rlgFE
 ---
 
 *Curso AI Automation — Juan Pablo Groppo — 2026*
